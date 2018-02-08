@@ -1,0 +1,12 @@
+h4{font-size: 23px; padding-left: 20px; text-align: justify;}
+.galerieEtiquette{}
+
+.etiquette{position: absolute; top:220Px; left:0;  width: 190px; height: 160px; color: #fff; text-align: justify; font-size: 14px; padding: 10px; background-color: rgba(0,0,0,0.4); margin: 0; position: absolute; -webkit-transition:2s all; -moz-transition:2s all; -o-transition:2s all; transition:2s all;}
+
+.mask{position: relative; float:left; height: 175px; width: 190px; overflow: hidden; margin-right: 15px; margin-bottom: 70px; margin-left: 22px;}
+
+.premier{float:left; height: 175px; width: 190px; overflow: hidden; margin-right: 15px; margin-bottom: 70px; margin-left: 20px;}
+
+.mask:hover .etiquette{top:100px;};
+
+.premier:hover .etiquette{top:100px;};

@@ -1,0 +1,3817 @@
+
+
+a.texte_infobulle:link { color: #262626; text-decoration: underline;}
+a.texte_infobulle:visited { color:#262626; text-decoration: underline; }
+a.texte_infobulle:active { color: #262626;text-decoration: underline;}
+a.texte_infobulle:hover { color: #262626; text-decoration: underline; }
+a.texte_infobulle em {display:none;}
+a.texte_infobulle:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.texte_infobulle:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -280px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:350px;}
+a.texte_infobulle:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(admin/image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+
+a.date:link { color: #262626; text-decoration: underline;}
+a.date:visited { color:#262626; text-decoration: underline; }
+a.date:active { color: #262626;text-decoration: underline;}
+a.date:hover { color: #262626; text-decoration: underline; }
+a.date em {display:none;} 
+a.date:hover {border: 0; position: relative;z-index: 500;text-decoration:none;} 
+a.date:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(admin/image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+a.date1:link { color: #FFFFFF; text-decoration: underline; }
+a.date1:visited { color: #FFFFFF;text-decoration: underline;}
+a.date1:active { color: #FFFFFF; text-decoration: underline;}
+a.date1:hover { color: #FFFFFF; text-decoration: underline;}
+a.date1 em {display:none;}
+a.date1:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date1:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date1:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(admin/image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+a.date1_admin:link { color: #FFFFFF; }
+a.date1_admin:visited { color: #FFFFFF;text-decoration: underline;}
+a.date1_admin:active { color: #FFFFFF; text-decoration: underline;}
+a.date1_admin:hover { color: #FFFFFF; text-decoration: underline;}
+a.date1_admin em {display:none;}
+a.date1_admin:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date1_admin:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date1_admin:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+a.date3:link { color: #FFFFFF; text-decoration: underline; }
+a.date3:visited { color: #FFFFFF;text-decoration: underline;}
+a.date3:active { color: #FFFFFF; text-decoration: underline;}
+a.date3:hover { color: #FFFFFF; text-decoration: underline;}
+a.date3 em {display:none;}
+a.date3:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date3:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date3:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(admin/image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+a.date3_admin:link { color: #FFFFFF; }
+a.date3_admin:visited { color: #FFFFFF;text-decoration: underline;}
+a.date3_admin:active { color: #FFFFFF; text-decoration: underline;}
+a.date3_admin:hover { color: #FFFFFF; text-decoration: underline;}
+a.date3_admin em {display:none;}
+a.date3_admin:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date3_admin:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date3_admin:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+a.date4:link { color: #0D0D0D; text-decoration: underline; }
+a.date4:visited { color: #0D0D0D;text-decoration: underline;}
+a.date4:active { color: #0D0D0D; text-decoration: underline;}
+a.date4:hover { color: #0D0D0D; text-decoration: underline;}
+a.date4 em {display:none;}
+a.date4:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date4:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date4:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(admin/image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+a.date4_admin:link { color: #0D0D0D; }
+a.date4_admin:visited { color: #0D0D0D;text-decoration: underline;}
+a.date4_admin:active { color: #0D0D0D; text-decoration: underline;}
+a.date4_admin:hover { color: #0D0D0D; text-decoration: underline;}
+a.date4_admin em {display:none;}
+a.date4_admin:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date4_admin:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date4_admin:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+a.date5:link { color: #FFFFFF; text-decoration: underline; }
+a.date5:visited { color: #FFFFFF;text-decoration: underline;}
+a.date5:active { color: #FFFFFF; text-decoration: underline;}
+a.date5:hover { color: #FFFFFF; text-decoration: underline;}
+a.date5 em {display:none;}
+a.date5:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date5:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date5:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(admin/image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+a.date5_admin:link { color: #FFFFFF; }
+a.date5_admin:visited { color: #FFFFFF;text-decoration: underline;}
+a.date5_admin:active { color: #FFFFFF; text-decoration: underline;}
+a.date5_admin:hover { color: #FFFFFF; text-decoration: underline;}
+a.date5_admin em {display:none;}
+a.date5_admin:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date5_admin:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -70px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:200px;}
+a.date5_admin:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+
+a.date_admin:link { color: #262626; text-decoration: underline;}
+a.date_admin:visited { color:#262626; text-decoration: underline; }
+a.date_admin:active { color: #262626;text-decoration: underline;}
+a.date_admin:hover { color: #262626; text-decoration: underline; }
+a.date_admin em {display:none;}
+a.date_admin:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.date_admin:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -9px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:170px;}
+a.date_admin:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+
+a.offset:link { color: #FFFFFF; }
+a.offset:visited { color:#FFFFFF; text-decoration: underline; }
+a.offset:active { color: #FFFFFF;text-decoration: underline;}
+a.offset:hover { color: #FFFFFF; text-decoration: underline; }
+a.offset em {display:none;}
+a.offset:hover {border: 0; position: relative;z-index: 500;text-decoration:none;}
+a.offset:hover em {font-style: normal; display: block;position: absolute; top: 27px; left: -9px; padding: 5px; color: #000; border: 1px solid #bbb; background: #ffc; width:170px;}
+a.offset:hover em span {position: absolute; top: -7px; left: 3px; height: 7px; width: 11px; background: transparent url(image-infobulle.gif); margin:0; padding: 0; border: 0;}
+
+
+a.selection:link { color: #000000; text-decoration: none; }
+a.selection:visited { color: #000000; text-decoration: none; }
+a.selection:active { color: #000000; text-decoration: none;}
+a.selection:hover { color: #000000; text-decoration: none; }
+
+
+a.selection_1mois:link { color: #FFFFFF; text-decoration: none; }
+a.selection_1mois:visited { color: #FFFFFF; text-decoration: none; }
+a.selection_1mois:active { color: #FFFFFF; text-decoration: none;}
+a.selection_1mois:hover { color: #FFFFFF; text-decoration: none; }
+
+
+td.cellule_mois
+{
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #758DA3;
+   width : 170px;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.cellule_mois_tous
+{
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #758DA3;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.cellule_plus_moins_mois
+{
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #758DA3;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.lettre_jour_semaine
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #575757;
+   background-color: #97B5D4;
+   width : 18px;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.lettre_jour_week_end
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #575757;
+   background-color: #C5C8C9;
+   width : 18px;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.lettre_jour_num_semaine
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #575757;
+   background-color: #97B5D4;
+   width : 18px;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.lettre_jour_num_semaine_periode
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #575757;
+   background-color: #97B5D4;
+   width : 18px;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.chiffre_num_semaine
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #04606E;
+   background-color: #D5DDE8;
+   width : 18px;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.lettre_num_jour_libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #FFFFFF;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.lettre_num_jour_libre_periode
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #FFFFFF;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.lettre_num_jour_libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #FFFFFF;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.lettre_num_jour_libre_week_end
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.lettre_num_jour_libre_week_end_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.lettre_num_jour_libre_cellule_vide
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #FFFFFF;
+   height : 20px;
+   text-align : center ; 
+}
+
+
+td.lettre_num_jour_libre_cellule_vide_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #FFFFFF;
+   height : 20px;
+   width  : 170px;
+   text-align : center ; 
+}
+
+
+td.lettre_num_jour_libre_week_end_cellule_vide
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ; 
+}
+
+
+td.lettre_num_jour_libre_week_end_cellule_vide_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ; 
+}
+
+
+td.chiffre_num_semaine_cellule_vide
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #D5DDE8;
+   height : 20px;
+   text-align : center ;
+}
+
+
+td.jour_reserve_1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;   
+}
+
+
+td.jour_reserve_libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFFFFF;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_1-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_3-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_3-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_4-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_4-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_5-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_5-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_libre-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_libre-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF0000;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.jour_reserve_triangle_weekend-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_weekend-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.jour_reserve_triangle_1-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_1-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_3-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_3-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_4-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_4-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_5-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_5-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_libre-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_libre-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #C0D921;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.jour_reserve_triangle_weekend-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_weekend-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.jour_reserve_triangle_1-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_1-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_3-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_3-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_4-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_4-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_5-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_5-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_libre-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_libre-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FFE24F;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.jour_reserve_triangle_weekend-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_weekend-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.jour_reserve_triangle_1-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_1-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_1-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-1
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_1-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_1-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-1_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-1.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_3-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_3-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_3-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-3
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_3-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_3-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-3_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-3.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_4-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_4-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_4-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-4
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_4-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_4-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-4_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #0D0D0D;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-4.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_5-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_rectangle_5-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+td.jour_reserve_triangle_libre-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-libre
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_libre-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_libre-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_libre-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_libre-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-libre_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #FF8812;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-libre.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.jour_reserve_triangle_weekend-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-5
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-weekend
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_weekend-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_weekend-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_triangle_5-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/triangle_5-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_weekend-5_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_weekend-5.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+td.jour_reserve_rectangle_5-weekend_developpe
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #E1E4E6;
+   height : 20px;
+   width  : 170px;
+   text-align : center ;
+   background-image: url('http://127.0.0.1:8888/script journalier V4/admin/img_cal/rectangle_5-weekend.jpg?version=1291665275');
+   background-repeat: repeat;
+   background-position: center center; 
+}
+
+
+
+td.lettre_num_jour_aujourdhui
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #262626;
+   background-color: #0D96FF;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.cellule_offset
+{
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #758DA3;
+   width : 170px;
+   height : 20px;
+   text-align : center ;   
+}
+
+
+td.cellule_separateur_horizontal
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   text-align : center ;
+   background-color: #ADCFF2;
+   color: #FFFFFF;
+   height : 2px;
+}
+
+
+td.cellule_separateur_vertical
+{
+   font-family: Arial;
+   font-size: 12px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   text-align : center ;
+   background-color: #ADCFF2;
+   color: #FFFFFF;
+   width : 3px;
+}
+

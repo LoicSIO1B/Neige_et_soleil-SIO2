@@ -1,0 +1,58 @@
+div#container
+{
+   width: 980px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #DED7B5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 11px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Table1
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 1px;
+}
+#Table1 td
+{
+   padding: 5px 5px 5px 5px;
+}
+#Table1 .cell0
+{
+   background-color: #FBFBFB;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 676px;
+}
+a.style_lien:link
+{
+   color: #A07217;
+}
+a.style_lien:visited
+{
+   color: #A07217;
+   text-decoration: underline;
+}
+a.style_lien:active
+{
+   color: #A07217;
+   text-decoration: underline;
+}
+a.style_lien:hover
+{
+   color: #A07217;
+   text-decoration: underline;
+}

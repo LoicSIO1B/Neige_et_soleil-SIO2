@@ -1,0 +1,4 @@
+
+
+AddHandler default-handler .php .php5 .php4 .php3
+AddType text/plain .php .php5 .php4 .php3

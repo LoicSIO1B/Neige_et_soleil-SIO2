@@ -1,0 +1,293 @@
+div#container
+{
+   width: 980px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #DED7B5;
+   background-image: url(images/fond.png);
+   background-attachment: scroll;
+   background-position: left top;
+   background-repeat: repeat-x;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 11px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#fond_widget
+{
+   border-width: 0;
+}
+#menu_codes
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_text_cal 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_text_cal div
+{
+   text-align: center;
+}
+#wb_text_locataire 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_text_locataire div
+{
+   text-align: center;
+}
+#wb_text_couleur 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_text_couleur div
+{
+   text-align: center;
+}
+#wb_texte_param 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_texte_param div
+{
+   text-align: center;
+}
+#wb_text_stats 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_text_stats div
+{
+   text-align: center;
+}
+#wb_texte_langues 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_texte_langues div
+{
+   text-align: center;
+}
+#wb_text_maintenance 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_text_maintenance div
+{
+   text-align: center;
+}
+#wb_text_codes 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_text_codes div
+{
+   text-align: center;
+}
+#wb_text_propos 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_text_propos div
+{
+   text-align: center;
+}
+#Image10
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_memo
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_calcul
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_cal
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_locataire
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_ressources
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_couleur
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#manu_maintenance
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_stat
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_langue
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_paraemtre
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#menu_propos
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Table1
+{
+   border: 1px #C0C0C0 outset;
+   background-color: #FFFFFF;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 1px;
+}
+#Table1 td
+{
+   padding: 5px 5px 5px 5px;
+}
+#Table1 .cell0
+{
+   background-color: #FBFBFB;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 676px;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}

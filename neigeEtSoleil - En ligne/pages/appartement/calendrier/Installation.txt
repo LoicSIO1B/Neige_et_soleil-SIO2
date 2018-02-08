@@ -1,0 +1,16 @@
+
+******************************************************************************
+License payante 1 license par nom de doamine, modification du scipt autorisés
+******************************************************************************
+
+
+******************************************************************************
+Toutes les informations disponibles , installation , mise à jour
+
+installer le contenu du répertoire calendrier réservation sur votre
+ 
+serveur afficher la page index du  le répertoire admin/installation/
+
+voir http://www.mathieuweb.fr/calendrier/calendrier.php
+
+******************************************************************************

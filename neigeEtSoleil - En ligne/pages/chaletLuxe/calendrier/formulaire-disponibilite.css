@@ -1,0 +1,183 @@
+div#container
+{
+   width: 902px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #DED7B5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 11px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Table1
+{
+   border: 1px #C0C0C0 outset;
+   background-color: #FFFFFF;
+   border-spacing: 1px;
+}
+#Table1 td
+{
+   padding: 5px 5px 5px 5px;
+}
+#Table1 .cell0
+{
+   background-color: #FBFBFB;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 996px;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#date_debut
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: "Courier New";
+   font-weight: normal;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: right;
+}
+#wb_Text1 div
+{
+   text-align: right;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Form1
+{
+   background-color: #59ACFF;
+   border: 0px #000000 solid;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: right;
+}
+#wb_Text4 div
+{
+   text-align: right;
+}
+#date_fin
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: "Courier New";
+   font-weight: normal;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: right;
+}
+#wb_Text5 div
+{
+   text-align: right;
+}
+#capacite
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: "Courier New";
+   font-weight: normal;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Button1
+{
+   border: 1px #000000 solid;
+   background-color: #525252;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+}

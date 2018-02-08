@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" >
+<html>
+<head>
+<title>No Script - Charger des pages sans JavaScript </title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="tabs.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="tabs.css" />
+<style>
+
+body
+{ 
+    margin: 48px; 
+    font-size:100%;
+    font-family: arial, sans;
+    background-color: #FFF;
+}
+
+.legal
+{
+    text-align:center;
+    font-size: 80%;
+    color: #666;
+}
+
+</style>
+
+
+
+</head>
+
+
+<body>
+<div id="content">
+
+<h1>No Script -  Charger des pages sans JavaScript </h1>
+
+<p>Les onglets fonctionnent sans JavaScript  avec des pages qui incorporent chacune le Tab Panel et l'utilisent comme menu, pour un site Web par exemple.<br />
+  L'onglet correspondant à la page active dispose de la classe &quot;selected&quot; pour mettre en relief l'onglet actif.
+    <br />
+Dans cet exemple, on associe la classe selected à l'onglet No Script:</p>
+<pre>&lt;li&gt;&lt;a href=&quot;tab-noscript.html&quot; class=&quot;selected&quot;&gt;No Script&lt;/a&gt;&lt;/li&gt;</pre>
+<p>&nbsp; </p>
+<div id="tabs">
+<ul>
+     <li><a href="#" rel="tab-css.html"  onclick="loadit(this)">CSS</a></li>
+     <li><a href="#" rel="tab-dom.html" onClick="loadit(this)">DOM</a></li>
+     <li><a href="#" rel="tab-javascript.html" onClick="loadit(this)">JavaScript</a></li>
+     <li><a href="tab-noscript.html" class="selected">No Script</a></li>
+</ul>
+<iframe id="container"></iframe>
+</div>
+
+
+<p><br>
+  Revenir au tutoriel: <a href="onglets.php" target="_parent">Panel d'onglets sans framework</a>.<br>
+</p>
+<div class="legal"> 
+(c) 2009 <a href="http://www.xul.fr/ecmascript/tutoriel/" target="_parent" >Xul.fr</a>. 
+        Tous droits r&eacute;serv&eacute;s. <br>
+        Permission est donn&eacute;e d'imprimer cette page et le code des scripts, 
+        et d'utiliser librement le code des scripts.<br>
+        N'affichez pas cette page ni le code des scripts sur un autre site Web. 
+</div>
+    
+</div>
+</body>
+</html>

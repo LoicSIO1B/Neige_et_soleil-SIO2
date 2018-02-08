@@ -1,0 +1,34 @@
+.vert{color: green;}
+
+.rouge{color: red;}
+
+.bleu{color: blue;}
+
+.orange{color: orange;}
+
+.ombre{box-shadow: 0 0 10px #999;}
+
+section .nouVous p{font-size: 10px;}
+
+section .nousVous h1{text-transform: uppercase; font-size: 16px; color: blue; font-weight: 100;}
+
+section .nousVous h1 .bdc	{text-transform: lowercase;}
+
+section .nousVous{display: inline-block; vertical-align: top; width: 155px; padding: 10px;}
+
+section .contenu{display: inline-block; vertical-align: top; width: 520px; padding: 5px;}
+
+section .pub{display: inline-block; vertical-align: top; width: 175px; padding:0;}
+
+section .rectangle{border-radius: 5px; padding: 5px; margin-top: 10px; margin-bottom: 10px}
+
+section .rectangle h2{font-size: 12px; font-weight: 100; margin: 0; text-transform: uppercase;}
+
+section .contenu p{font-size: 14px;}
+
+section .contenu h1{font-size:20px; margin: 0}
+
+#conteneur{width: 920px; margin:0 auto; background-color: #dcddd5;}
+
+section .contenu img{float: left;}
+h6 {float: right; padding-right: 50px;}

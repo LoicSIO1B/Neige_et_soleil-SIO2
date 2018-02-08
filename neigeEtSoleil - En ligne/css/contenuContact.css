@@ -1,0 +1,5 @@
+#form p{padding-bottom: 10px;}
+
+#form #admin label{float:left; width: 100px; text-align: right; padding-right: 50px;}
+
+#form #admin input{width:450px; margin-bottom: 20px;}

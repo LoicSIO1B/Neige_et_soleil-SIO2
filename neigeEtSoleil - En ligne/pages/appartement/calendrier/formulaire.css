@@ -1,0 +1,206 @@
+div#container
+{
+   width: 662px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #DED7B5;
+   color: #000000;
+   font-family: Arial;
+   font-size: 11px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#date_debut
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Courier New';
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_Text1 div
+{
+   text-align: right;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+}
+#wb_Form1
+{
+   background-color: #59ACFF;
+   border: 0px #000000 solid;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_Text4 div
+{
+   text-align: right;
+}
+#date_fin
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Courier New';
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+}
+#Button1
+{
+   border: 1px #282828 solid;
+   background-color: #525252;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 13px;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_Text3 div
+{
+   text-align: right;
+}
+#nom
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Courier New';
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_Text5 div
+{
+   text-align: right;
+}
+#prenom
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Courier New';
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_Text6 div
+{
+   text-align: right;
+}
+#commentaire
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Courier New';
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+#wb_page9Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_page9Text1 div
+{
+   text-align: right;
+}
+#email
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Courier New';
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_page9Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_page9Text2 div
+{
+   text-align: right;
+}
+#telephone
+{
+   border: 1px #C0C0C0 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Courier New';
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_page9Text3 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   text-align: right;
+}
+#wb_page9Text3 div
+{
+   text-align: right;
+}
